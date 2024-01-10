@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/connect-four-minimax/static/css/main.af0a6380.css",
+    "main.js": "/connect-four-minimax/static/js/main.49c63326.js",
+    "index.html": "/connect-four-minimax/index.html",
+    "main.af0a6380.css.map": "/connect-four-minimax/static/css/main.af0a6380.css.map",
+    "main.49c63326.js.map": "/connect-four-minimax/static/js/main.49c63326.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af0a6380.css",
+    "static/js/main.49c63326.js"
+  ]
+}
